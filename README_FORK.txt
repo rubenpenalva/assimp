@@ -6,7 +6,7 @@ To see the configuration used when generating the solution check cmake_config_1.
 Built with visual studio 2017. 
 Platform toolset v141.
 Windows sdk version 10.0.16299.0.
-Release and Debug x64 configs.
+Release x64 config.
 Static library.
 
 INSTALL

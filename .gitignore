@@ -2,10 +2,10 @@
 build
 .project
 *.kdev4*
+.vs
 
 # Output
 bin/
-lib/
 
 *.dir/
 
@@ -22,8 +22,6 @@ test/results
 # Python
 __pycache__
 *.log
-*.vcxproj
-*.filters
 *.tlog
 Assimp.sdf
 test/gtest/tmp/gtest-gitupdate.cmake
@@ -37,7 +35,6 @@ test/gtest/src/gtest-stamp/Debug/gtest-patch
 *.cache
 test/gtest/src/gtest-stamp/Debug/gtest-build
 *.suo
-*.lib
 test/gtest/src/gtest-stamp/Debug/
 tools/assimp_view/assimp_viewer.vcxproj.user
 *.pyc
