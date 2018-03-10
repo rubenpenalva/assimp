@@ -4,6 +4,9 @@ build
 *.kdev4*
 .vs
 
+Debug
+RelWithDebInfo
+
 *.dir/
 
 # MakeFile
