@@ -1,0 +1,14 @@
+C:/Development/GitHub/assimp/CMakeFiles/uninstall.dir
+C:/Development/GitHub/assimp/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+C:/Development/GitHub/assimp/CMakeFiles/INSTALL.dir
+C:/Development/GitHub/assimp/CMakeFiles/ALL_BUILD.dir
+C:/Development/GitHub/assimp/CMakeFiles/ZERO_CHECK.dir
+C:/Development/GitHub/assimp/contrib/zlib/CMakeFiles/zlib.dir
+C:/Development/GitHub/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir
+C:/Development/GitHub/assimp/contrib/zlib/CMakeFiles/INSTALL.dir
+C:/Development/GitHub/assimp/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+C:/Development/GitHub/assimp/contrib/CMakeFiles/INSTALL.dir
+C:/Development/GitHub/assimp/contrib/irrXML/CMakeFiles/IrrXML.dir
+C:/Development/GitHub/assimp/contrib/irrXML/CMakeFiles/INSTALL.dir
+C:/Development/GitHub/assimp/code/CMakeFiles/assimp.dir
+C:/Development/GitHub/assimp/code/CMakeFiles/INSTALL.dir
