@@ -244,7 +244,7 @@ Assimp_SOURCE_DIR:STATIC=C:/Development/GitHub/assimp
 BUILD_DOCS:BOOL=OFF
 
 //Build package as Mac OS X Framework bundle.
-BUILD_FRAMEWORK:BOOL=OFF
+BUILD_FRAMEWORK:BOOL=ON
 
 //Build package with shared libraries.
 BUILD_SHARED_LIBS:BOOL=OFF

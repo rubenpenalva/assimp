@@ -4,9 +4,6 @@ build
 *.kdev4*
 .vs
 
-# Output
-bin/
-
 *.dir/
 
 # MakeFile
